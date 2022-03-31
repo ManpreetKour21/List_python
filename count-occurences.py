@@ -8,11 +8,11 @@ while i<len(c):
     u=c.count("u")
     g=c.count("g")
     i=i+1
-print("a",a,"time")
-print("n",n,"time")
-print("t",t,"time")
-print("x",x,"time")
-print("u",u,"time")
-print("g",g,"time")
+print("a-",a,"time")
+print("n-",n,"time")
+print("t-",t,"time")
+print("x-",x,"time")
+print("u-",u,"time")
+print("g-",g,"time")
 
        

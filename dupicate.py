@@ -6,3 +6,4 @@ while  i<len(n):
         b.append(n[i])
     i=i+1
 print(b)    
+

@@ -42,7 +42,7 @@
     
 
 
-a=["Amrita","Tiwari"]
+a=["manpreet","kour"]
 i=0
 b=[]
 while i<len(a):

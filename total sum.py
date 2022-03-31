@@ -24,8 +24,36 @@
 #         j+=1
 #     i+=1
 # print(a)
-# list= [1,2,3,4,5]
-# i=0
-# while i<=len(list):
-#     print(i*i)
-#     i=i+1
+
+
+
+
+
+# # # list= [1,2,3,4,5]
+# # i=0
+# # while i<=len(list):
+# #     print(i*i)
+# #     i=i+1
+
+
+
+# a=int(input(" enter the number....."))
+# b=int(input("entert the number...."))
+# string=""
+# i=-1
+# while i<len-(string):
+#     string=string+a+b
+#     i+=1
+# print(string)
+    
+
+# a=int(input(" enter the number....."))
+# b=int(input("entert the number...."))
+# string=""
+# string=string+str(a)+str(b)
+# i=1
+# while i>(-len(string)):
+#     print(string[-i])
+#     i+=1
+# print(string)
+    

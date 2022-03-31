@@ -29,4 +29,18 @@
 #     print(a[i])
 #     i+=1
 
+a=[1,2,3,4]
+i=0
+b=[]
+c=[]
+while i<len(a):
+    if a[i]%2==0:
+        b.append(a[i])
+    else:
+        c.append(a[i])
+    i+=1
+print("even",b)
+print("odd",c)
+
+
 

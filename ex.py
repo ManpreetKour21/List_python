@@ -1,5 +1,5 @@
-a=[10,20,-50,21.3,'geekyshows']
-print(a[3])
+# a=[10,20,-50,21.3,'geekyshows']
+# print(a[3])
 
 
 # s=("hello")
@@ -167,14 +167,14 @@ print(a[3])
 
 # a=1,2,3,4,5,6,7
 
-# def compare_lists():
-#     llist1=[1,2,3,]
-#     llist2=[1,2,3,4]
-#     i=0
-#     while i<len(llist1):
-#         if llist1[i]==llist2[i]:
-#             return 1
-#         elif llist1!=llist2:
-#             return 0
-#         i=i+1
-# print(compare_lists())
+def compare_lists():
+    llist1=[1,2,3,]
+    llist2=[1,2,3,4]
+    i=0
+    while i<len(llist1):
+        if llist1[i]==llist2[i]:
+            return 1
+        elif llist1!=llist2:
+            return 0
+        i=i+1
+print(compare_lists())

@@ -7,9 +7,9 @@
 #     i+=1
 
 
-a="5"
-b="2"
-if type (str):
-    print(int(a)+int(b))
-else:
-    print(a+b,"oooo")
+# a="5"
+# b="2"
+# if type (str):
+#     print(int(a)+int(b))
+# else:
+#     print(a+b,"oooo")

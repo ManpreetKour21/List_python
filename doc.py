@@ -39,7 +39,7 @@
 
 
 
-a=["Amrita"]
-str="".join(a)
-x=str.split()
-print(x)
+# a=["Amrita"]
+# str="".join(a)
+# x=str.split()
+# print(x)
